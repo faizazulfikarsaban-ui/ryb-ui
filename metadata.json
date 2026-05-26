@@ -1,0 +1,6 @@
+{
+  "name": "RYB Wound Analyzer",
+  "description": "Sistem Analisis Jaringan Luka berbasis Red-Yellow-Black (RYB) bertenaga AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
