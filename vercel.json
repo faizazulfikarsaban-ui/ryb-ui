@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://faiza25-ryb-wound-analyzer.hf.space/api/$1"
+    }
+  ]
+}
